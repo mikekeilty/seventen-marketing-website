@@ -3,4 +3,4 @@
 phpinfo();
 
 var_dump('Jack is awesome');
-die('die23333');
+die('die23sidufsieufh333');
