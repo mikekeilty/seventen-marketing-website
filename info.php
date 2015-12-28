@@ -2,5 +2,5 @@
 
 phpinfo();
 
-var_dump('This working yet?');
+var_dump('Fuck you buddy');
 die('die23sidufsieufh333');
