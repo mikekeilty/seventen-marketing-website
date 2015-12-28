@@ -2,5 +2,5 @@
 
 phpinfo();
 
-var_dump('Im getting hungry');
+var_dump('money money money');
 die('die23sidufsieufh333');
