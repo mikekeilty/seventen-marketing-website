@@ -2,5 +2,5 @@
 
 phpinfo();
 
-var_dump('money money money');
+var_dump('another useless commit');
 die('die23sidufsieufh333');
