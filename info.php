@@ -2,5 +2,5 @@
 
 phpinfo();
 
-var_dump('another useless commit');
+var_dump('work');
 die('die23sidufsieufh333');
