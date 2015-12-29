@@ -2,5 +2,5 @@
 
 phpinfo();
 
-var_dump('things');
+var_dump('again!');
 die('die23sidufsieufh333');
