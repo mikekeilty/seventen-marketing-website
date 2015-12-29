@@ -2,5 +2,5 @@
 
 phpinfo();
 
-var_dump('derp');
+var_dump('stuff');
 die('die23sidufsieufh333');
